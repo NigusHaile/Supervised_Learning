@@ -26,13 +26,12 @@ from classical algorithms to deep learning, object detection, and Transformers.
 
 **Classical Computer Vision**
 - Local descriptors: SIFT and Bag of Words (BoW)
-- Viola–Jones Object Detection Framework
 
 **Deep Learning**
-- Convolutional Neural Networks (CNNs) — convolution, training, famous architectures, transfer learning
+- Convolutional Neural Networks (CNNs): training, famous architectures, transfer learning
 - Recurrent and Recursive Networks (RNNs, LSTM, GRU)
 - Transformers
-- Self-supervised learning
+- Self supervised learning
 
 **Modern Object Detection**
 - Two-stage: R-CNN, Fast R-CNN, Faster R-CNN
