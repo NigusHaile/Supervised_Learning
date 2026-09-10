@@ -1,7 +1,6 @@
 # MachineLearning for modelling Supervised Learning
 
-Course materials, notes, and implementations from the **Supervised Learning**
-course. Covers the foundations and modern practice of supervised learning,
+Notes, and implementations on **Supervised Learning**. Covers the foundations and modern practice of supervised learning,
 from classical algorithms to deep learning, object detection, and Transformers.
 
 ## 📚 Topics covered
